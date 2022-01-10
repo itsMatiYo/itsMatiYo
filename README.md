@@ -2,7 +2,6 @@
 
 [Check out my github page (Vc)](https://itsmatiyo.github.io/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsMatiYo&color=blue" alt="Profile_views"> </p>
 <!--
 **itsMatiYo/itsMatiYo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
