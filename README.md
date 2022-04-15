@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[Check out my github page (Vc)](https://itsmatiyo.github.io/)
-
 <a href="https://t.me/itsmatiyo" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-itsMatiYo-blue?style=flat&logo=telegram" alt="telegram"/>
 </a>
